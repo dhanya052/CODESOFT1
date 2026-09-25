@@ -1,0 +1,32 @@
+Welcome to the CodSoft Simple Calculator!
+
+===== SIMPLE CALCULATOR =====
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (*)
+4. Division (/)
+5. Exit
+Choose an operation (1-5): 1
+Enter first number: 12
+Enter second number: 8
+Result: 12.0 + 8.0 = 20.0
+
+===== SIMPLE CALCULATOR =====
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (*)
+4. Division (/)
+5. Exit
+Choose an operation (1-5): 4
+Enter first number: 10
+Enter second number: 0
+Error: Cannot divide by zero.
+
+===== SIMPLE CALCULATOR =====
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (*)
+4. Division (/)
+5. Exit
+Choose an operation (1-5): 5
+Goodbye!
