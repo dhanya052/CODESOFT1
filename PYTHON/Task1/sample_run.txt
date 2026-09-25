@@ -1,0 +1,32 @@
+================================
+       TO-DO LIST MENU
+================================
+1. View tasks
+2. Add task
+3. Mark task as complete
+4. Update task
+5. Delete task
+6. Exit
+Choose an option (1-6): 2
+Enter task title: Buy groceries
+Due date (YYYY-MM-DD) or leave blank: 2026-09-30
+Added task #1: Buy groceries
+
+================================
+       TO-DO LIST MENU
+================================
+Choose an option (1-6): 1
+
+--- YOUR TO-DO LIST ---
+  1. [ ] Buy groceries (due 2026-09-30)
+
+Choose an option (1-6): 3
+
+--- YOUR TO-DO LIST ---
+  1. [ ] Buy groceries (due 2026-09-30)
+
+Enter task number to mark complete: 1
+Task #1 marked as complete.
+
+Choose an option (1-6): 6
+Goodbye!
