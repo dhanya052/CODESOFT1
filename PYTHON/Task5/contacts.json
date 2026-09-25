@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Dhanya BM",
+    "phone": "9876543210",
+    "email": "dhanya.bm@example.com",
+    "address": "Haliyal, Karnataka, India"
+  },
+  {
+    "id": 2,
+    "name": "Ruman Arshad",
+    "phone": "9123456780",
+    "email": "contact@codsoft.in",
+    "address": "CodSoft Program Manager"
+  }
+]
