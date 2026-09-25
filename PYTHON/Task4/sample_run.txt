@@ -1,0 +1,26 @@
+====================================
+     ROCK - PAPER - SCISSORS
+====================================
+
+--- Round 1 ---
+Choose rock, paper, or scissors (or r/p/s): rock
+You chose:      rock
+Computer chose: paper
+Computer wins this round!
+Score -> You: 0 | Computer: 1
+
+Play another round? [Y/n]: y
+
+--- Round 2 ---
+Choose rock, paper, or scissors (or r/p/s): paper
+You chose:      paper
+Computer chose: rock
+You win this round!
+Score -> You: 1 | Computer: 1
+
+Play another round? [Y/n]: n
+
+===== FINAL SCORE =====
+You: 1  |  Computer: 1
+🤝 The match ended in a tie overall!
+Thanks for playing!
