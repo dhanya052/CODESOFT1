@@ -1,0 +1,11 @@
+===== CODSOFT PASSWORD GENERATOR =====
+Desired password length (e.g. 12): 16
+Include uppercase letters (A-Z)? [Y/n]: y
+Include lowercase letters (a-z)? [Y/n]: y
+Include digits (0-9)? [Y/n]: y
+Include symbols (!@#$...)? [y/N]: y
+
+Generated Password: Xwv\8m)'{7!dEX*p
+
+Generate another password? [y/N]: n
+Goodbye! Stay secure.
